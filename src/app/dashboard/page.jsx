@@ -1,3 +1,7 @@
+export const metadata = {
+  title: 'Dashboard',
+  description: 'Dashboard informations',
+}
 
 const DashboardPage = () => {
     return (
